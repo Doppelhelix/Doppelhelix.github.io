@@ -1,2 +1,3 @@
-= Hello World!
-== I can't believe it, it's *working*!
+= Hallo Welt!
+
+I can't believe it, it's *working*!
